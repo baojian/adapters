@@ -1,0 +1,5 @@
+services:
+  main:
+    privileged: true
+    # A verifier-private daemon, never a mount of the host Docker socket.
+    # The agent environment has no Compose override and remains unprivileged.

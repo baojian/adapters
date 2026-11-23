@@ -1,0 +1,19 @@
+{
+  "dataset/abbots_puzzle/abbots_puzzle.cpmpy.py": "8cfc8dcbd052045ac04f8cdf6a1f01086a5b26e37c385865212a5e04b50affae",
+  "dataset/abbots_puzzle/abbots_puzzle.json": "94aeb2d1f95b0496a43379e486d9aaa8fb6e26b3780f69fda4cfe4d0c3c34747",
+  "dataset/aircraft_landing/aircraft_landing.cpmpy.py": "132d764d185fc7616ee154307a99c5c1edeae9a97d595cf5527c1e4ede973f1d",
+  "dataset/aircraft_landing/aircraft_landing.json": "3b78cda40fdd4375b698e7ac5818bd6bcace5d41147a68f4e3e9eedc20e35910",
+  "dataset/fixed_charge/fixed_charge.cpmpy.py": "c5e2542105307d56060121c573d13caeb8df6f6811ca6ba492034a4e666a77b4",
+  "dataset/fixed_charge/fixed_charge.json": "916ea484aaf08bbaf79dee188395479d8d20937d30ddc440f46f4b421e4c8d12",
+  "dataset/sudoku/sudoku.cpmpy.py": "97832000962eeb569d96d97f3fad058ea1db9a7e58bc8499a7577e82b1821b84",
+  "dataset/sudoku/sudoku.json": "efe28954415b482119f977c8090fee6725c5a0c52c6f6b51e4cde87f82445f05",
+  "evaluation/__init__.py": "b8eb7b7ce2b549c7d19580b09bbd6a0906e1c77b1c7dcd4d5ff2691679293bc1",
+  "evaluation/build.py": "37c627897f2ea01e97592512f98ac760cea5a715d37505c65dc8dd2f5b911f58",
+  "evaluation/check.py": "95494a68e437a359c63fdcb9d2b6cfdcb1f6ef260a95568f17cd763d02738c7f",
+  "evaluation/execution.py": "e7244df2c618a3cecf1dc280e73808702207678b8a870b13d08510df4d2113da",
+  "evaluation/legacy.py": "1c1fe71d2b941a1fdeca2799fe0a3cbbe06695f283d36d39472244c558985c52",
+  "evaluation/reference.py": "ccc6d560708f064ae4e32db0ad3655e4b9b62e4d7f04b7614332fc8650054621",
+  "evaluation/results.py": "53c870187e3962ab17584d5d726cc0b973780d1a83788a7cf6fe5b55356c9950",
+  "solvers/cpmpy_python/metadata.yaml": "728edfd081da04ea7eccd3bf23f07156aec2342d5b777e108778015ea26f333e",
+  "solvers/cpmpy_python/skills/cpmpy-python/SKILL.md": "9d7097ae5387699596b172e628b8bb2bed04ca872066bf0632b666e95107694d"
+}
