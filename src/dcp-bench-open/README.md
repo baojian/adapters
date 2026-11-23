@@ -3,8 +3,12 @@
 ## Overview
 
 Local four-problem pilot for DCP-Bench-Open v0.3.0, using the unchanged native
-Python/CPMpy evaluator. Implementation and static checks are available; runtime
-results must be recorded separately. This is not a completed contribution.
+Python/CPMpy evaluator. On November 23, 2026 the local runtime pilot passed:
+native controls 42/42, Harbor oracle 4/4 over 16 distinct instances, and 54/54
+instance/control comparisons. Actual Harbor rewards and trial errors were also
+checked. Raw evidence is retained in the private contribution workspace; public
+evidence upload, full generation and model parity remain outstanding. This is
+not a completed contribution.
 
 ## What is DCP-Bench-Open?
 
