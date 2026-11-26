@@ -11,7 +11,7 @@ trap cleanup EXIT
 # No TCP listener, bridge, host socket, or shared Docker data directory.
 dind dockerd --host="$DOCKER_HOST" --data-root=/var/lib/dcp-verifier \
   --exec-root=/var/run/dcp-verifier --pidfile=/var/run/dcp-verifier.pid \
-  --storage-driver=vfs --iptables=false --ip6tables=false --bridge=none \
+  --storage-driver=overlay2 --iptables=false --ip6tables=false --bridge=none \
   --ip-forward=false --ip-masq=false > /logs/verifier/dockerd.log 2>&1 &
 dcp_daemon_pid=$!
 for attempt in $(seq 1 45); do

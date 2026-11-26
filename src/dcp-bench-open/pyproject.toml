@@ -1,7 +1,7 @@
 [project]
 name = "harbor-dcp-bench-open-adapter"
 version = "0.1.0"
-description = "DCP-Bench-Open v0.3.0 four-problem Harbor pilot"
+description = "DCP-Bench-Open v0.3.0 Harbor adapter for the Python/CPMpy track"
 readme = "README.md"
 authors = [
     { name = "Baojian Zhou", email = "baojian.zh@gmail.com" }

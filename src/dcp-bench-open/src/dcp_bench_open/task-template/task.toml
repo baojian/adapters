@@ -7,7 +7,7 @@ authors = [{name = "Kostis Michailidis"}, {name = "Dimos Tsouros"}, {name = "Tia
 
 [metadata]
 category = "constraint-programming"
-tags = ["cpmpy", "optimization", "dcp-bench-open", "pilot"]
+tags = ["cpmpy", "optimization", "dcp-bench-open"]
 
 [agent]
 timeout_sec = 600.0
@@ -20,7 +20,7 @@ storage_mb = 4096
 
 [verifier]
 environment_mode = "separate"
-timeout_sec = 1500.0
+timeout_sec = 1500.0  # scaled by the generator for the selected instances
 
 [verifier.environment]
 build_timeout_sec = 600.0
